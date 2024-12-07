@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me - through email biazinisabela28@gmail;com
+- 📫 How to reach me - through email biazinisabela28@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i just started learning
 
