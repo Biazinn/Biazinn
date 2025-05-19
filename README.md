@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biazinn
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Next
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me - through email biazinisabela28@gmail.com
 - 😄 Pronouns: she/her
