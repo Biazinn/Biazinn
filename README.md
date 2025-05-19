@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me - through email biazinisabela28@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i just started learning
+- ⚡ Fun fact: I want to be a full stack someday
 
 <!---
 Biazinn/Biazinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
